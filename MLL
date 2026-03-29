@@ -19,6 +19,11 @@ https://www.appliedaicourse.com/blog/machine-learning/
 https://github.com/scaleracademy/Edge-DSML/tree/main
 https://github.com/28101991SUNNY/DSML-Classical-Machine-Learning-1/tree/main
 
+# course
+https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers
+https://course.fast.ai/Lessons/lesson1.html
+
+
 
 
 # Gen Ai and Agent
