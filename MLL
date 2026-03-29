@@ -6,6 +6,16 @@ https://github.com/edyoda/deep-learning/blob/master/26%20Basic%20Neural%20Networ
 https://github.com/edyoda/Python---ML---DL---PySpark-Training
 https://github.com/edyoda/tensorflow2.0-tutorial/blob/master/Module%202.%20Chapter%201-3.ipynb
 
+#krishnayak
+https://www.krishnaik.in/data-science-course
+https://github.com/krishnaik06/Complete-Python-Bootcamp
+https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024
+https://github.com/Brahme27/Krishna-Naik-Courses-My-Hand-Written-Notes/blob/main/Complete_DS_ML_DL_NLP_Bootcamp.zip
+
+# Scalar
+https://www.scaler.com/topics/courses/
+https://github.com/scaleracademy/Edge-DSML/tree/main
+
 
 #Gen Ai
 https://github.com/microsoft/generative-ai-for-beginners/tree/main?WT.mc_id=academic-105485-koreyst
