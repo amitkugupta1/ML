@@ -14,10 +14,20 @@ https://github.com/Brahme27/Krishna-Naik-Courses-My-Hand-Written-Notes/blob/main
 
 # Scalar
 https://www.scaler.com/topics/courses/
+https://www.appliedaicourse.com/blog/machine-learning/
 https://github.com/scaleracademy/Edge-DSML/tree/main
+https://github.com/28101991SUNNY/DSML-Classical-Machine-Learning-1/tree/main
 
 
-#Gen Ai
+# Gen Ai and Agent
 https://github.com/microsoft/generative-ai-for-beginners/tree/main?WT.mc_id=academic-105485-koreyst
+https://github.com/keertipurswani/EducosysGenerativeAI
+https://github.com/ashishpatel26/500-AI-Agents-Projects
+
+
+# Mislenious
+https://github.com/HarshVadaliya/tech-books-library
+https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/01-vectors-and-vector-spaces.ipynb
+
 
 
