@@ -32,6 +32,7 @@ https://github.com/keertipurswani/EducosysGenerativeAI
 https://github.com/ashishpatel26/500-AI-Agents-Projects
 https://github.com/HandsOnLLM/Hands-On-Large-Language-Models
 https://learn.microsoft.com/en-us/data-engineering/playbook/solutions/vector-database/
+https://github.com/junfanz1/Awesome-AI-Review/blob/main/System%20Design/GenAI%20System%20Design.md
 
 
 #Prompt
@@ -43,11 +44,13 @@ https://vizuara.ai/live-ai-courses/
 https://www.youtube.com/playlist?list=PLPTV0NXA_ZSiLI0ZfZYbHM2FPHKIuMW6K
 https://www.youtube.com/playlist?list=PLKnIA16_RmvYsvB8qkUQuJmJNuiCUJFPL
 https://www.youtube.com/watch?v=_3ezSpJw2E8&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=3
+https://www.youtube.com/@freebirdscrew2023/playlists
 
 
 # Mislenious
 https://github.com/HarshVadaliya/tech-books-library
 https://github.com/microsoft/ML-For-Beginners/tree/main
+
 
 https://github.com/cosmic-cortex/mathematics-of-machine-learning-book/blob/main/part-01-linear-algebra/01-vectors-and-vector-spaces.ipynb
 
